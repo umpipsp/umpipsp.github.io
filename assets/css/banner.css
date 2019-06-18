@@ -1,0 +1,5 @@
+/* Apenas contem o padroes dos banners */
+.banner {
+  background-position: center; 
+  background-size: cover; 
+}
